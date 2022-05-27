@@ -1,0 +1,1 @@
+/home/tincho/Documentos/Proyectos/rust-training/common-programming-concepts/ownership/target/debug/ownership: /home/tincho/Documentos/Proyectos/rust-training/common-programming-concepts/ownership/src/main.rs

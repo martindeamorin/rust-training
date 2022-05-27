@@ -1,0 +1,1 @@
+/home/tincho/Documentos/Proyectos/rust-training/common-programming-concepts/functions/target/debug/functions: /home/tincho/Documentos/Proyectos/rust-training/common-programming-concepts/functions/src/main.rs
